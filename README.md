@@ -80,7 +80,7 @@ cout<< Eval< Call< Lambda< ParamList< Var<0> >,
 * +: `Add<E1, E2>`
 * *:  `Mul<E1, E2>`
 * %: `Mod<E1, E2>`
-* >: `IsGreater<E1, E2>`
+* \>: `IsGreater<E1, E2>`
 * <: `IsLess<E1, E2>`
 * =: `IsEqual<E1, E2>`
 * Pair.1: `Fst<E>`
